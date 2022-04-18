@@ -1,4 +1,4 @@
-{
+export default {
     "ANNOUNCEMENTS": {
         "id": "726835640804704267"
     },

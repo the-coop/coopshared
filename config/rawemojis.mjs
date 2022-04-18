@@ -1,4 +1,4 @@
-{
+export default {
     "VOTE_FOR": "🕊️",
     "VOTE_AGAINST": "⚔️",
     "PROJECT": "👷",

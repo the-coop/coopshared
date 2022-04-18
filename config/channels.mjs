@@ -1,4 +1,4 @@
-{
+export default {
     "ENTRY": {
         "id": "724630911282577454",
         "spammable": true

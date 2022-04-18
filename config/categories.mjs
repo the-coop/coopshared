@@ -1,4 +1,4 @@
-{
+export default {
     "PROJECTS": {
         "id": "874729190438617138"
     },

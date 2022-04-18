@@ -1,4 +1,4 @@
-{
+export default {
     "COOP": ":coop:725006245999935610",
 
     "POLL_FOR": "🟢",

@@ -1,4 +1,4 @@
-{
+export default {
     "about_notifications_msg": "https://discordapp.com/channels/723660447508725802/762472730980515870/798717446847856681",
     "about_ourfocus_msg": "https://discordapp.com/channels/723660447508725802/762472730980515870/798717678453784576",
     "about_optout_msg": "https://discordapp.com/channels/723660447508725802/762472730980515870/862443667930742814",
