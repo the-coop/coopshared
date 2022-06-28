@@ -46,10 +46,6 @@ export default {
     "ADVERTS": {
         "id": "730592584509947946"
     },
-    "STREAM_NOMIC": {
-        "id": "779341376630292521",
-        "spammable": true
-    },
     "FEED": {
         "id": "796493571971874836",
         "spammable": true
