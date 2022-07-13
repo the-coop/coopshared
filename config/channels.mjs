@@ -1,8 +1,4 @@
 export default {
-    "ENTRY": {
-        "id": "724630911282577454",
-        "spammable": true
-    },
     "TALK": {
         "id": "723660447508725806",
         "spammable": true
