@@ -18,18 +18,11 @@ export default {
     "LEADERS": {
         "id": "762748248959483906"
     },
-    "SACRIFICE": {
-        "id": "816022755790815263"
-    },
     "ROADMAP": {
         "id": "748649755965522031"
     },
     "FOCUSBUSINESS": {
         "id": "779330384169009164",
-        "spammable": true
-    },
-    "FOCUSCODE": {
-        "id": "779330344272396299",
         "spammable": true
     },
     "FOCUSART": {
@@ -85,10 +78,6 @@ export default {
     },
     "STOCKS_CHAT": {
         "id": "901553190858792961",
-        "spammable": true
-    },
-    "FOREX": {
-        "id": "799420183869390848",
         "spammable": true
     },
     "ECONOMICS": {
