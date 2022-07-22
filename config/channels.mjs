@@ -68,10 +68,6 @@ export default {
     "BUSINESS_COMPETITION": {
         "id": "845603592940945418"
     },
-    "STOCKS_CHAT": {
-        "id": "901553190858792961",
-        "spammable": true
-    },
     "ECONOMICS": {
         "id": "796156573771759676",
         "spammable": true
