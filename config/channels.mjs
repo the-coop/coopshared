@@ -21,10 +21,6 @@ export default {
     "ROADMAP": {
         "id": "748649755965522031"
     },
-    "FOCUSBUSINESS": {
-        "id": "779330384169009164",
-        "spammable": true
-    },
     "FOCUSART": {
         "id": "779330299103674368",
         "spammable": true
@@ -63,10 +59,6 @@ export default {
         "id": "779330299103674368",
         "spammable": true
     },
-    "BUSINESS_CHAT": {
-        "id": "779330384169009164",
-        "spammable": true
-    },
     "TECHNOLOGY_COMPETITION": {
         "id": "845603416720801843"
     },
@@ -88,11 +80,6 @@ export default {
         "id": "838108309286027336",
         "spammable": true
     },
-    "CRYPTO": {
-        "id": "807255286406184970",
-        "spammable": true
-    },
-
     "CREATIVITY": {
         "id": "902692896791212052",
         "spammable": true
